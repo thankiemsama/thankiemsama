@@ -1,13 +1,67 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="thankiemsama — Build. Break. Learn. Repeat." width="100%" />
+</p>
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=thankiemsama&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thankiemsama&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thankiemsama&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/thankiemsama?tab=repositories"><b>EXPLORE THE CODE ↗</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/thankiemsama?tab=stars">BOOKMARKS ↗</a>
+</p>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=thankiemsama&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br />
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### `01 / whoami`
+
+I'm **Phùng Vĩnh Luân** — **thankiemsama** on the internet.
+
+I'm interested in what happens behind the interface: application logic, APIs, and the databases that hold everything together. This is my space to build things, explore ideas, and keep learning through code.
+
+```text
+> current toolkit
+  C# / .NET                    PHP / Laravel
+  MySQL / SQL Server           HTML / CSS / Bootstrap
+
+> the loop
+  idea → code → debug → understand → repeat
+```
+
+<br />
+
+### `02 / open a project`
+
+#### 01 — Xưởng May
+
+A look behind a garment workshop application. Explore a C# backend split into API, services, repositories, and core components.
+
+`C#` `.NET` `Backend`
+
+**[Read the code ↗](https://github.com/GiangWork/Amazing_Tech_Intern_Xuong_May)**
+
+---
+
+#### 02 — Web Attendance
+
+An attendance web project with dedicated spaces for administrators, teachers, and students. Explore how its pages and application logic fit together.
+
+`PHP` `Web application`
+
+**[Read the code ↗](https://github.com/taiDinh303/WebAttendance)**
+
+<sub>Projects pinned on my profile · See each repository for its contributors.</sub>
+
+<br />
+<br />
+
+### `03 / keep exploring`
+
+The code tells the rest of the story.
+
+**[All repositories ↗](https://github.com/thankiemsama?tab=repositories)**
+
+<br />
+
+---
+
+<p align="center">
+  <samp>Thanks for visiting. See you in the next commit.</samp>
+</p>
